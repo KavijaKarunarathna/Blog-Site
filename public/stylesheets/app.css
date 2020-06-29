@@ -1,0 +1,17 @@
+i.icon{
+	font-size: 2em;
+}
+
+.container.main {
+	margin: 55px auto;
+}
+
+#another {
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+}
+textarea {
+	height: 30vh;
+}
+
